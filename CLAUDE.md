@@ -20,6 +20,15 @@ Roller:
 
 Andre oplysninger om projekterne (kapacitet, status, kontrakter, tidsplaner) er ikke angivet her. Ved ikke, før de er verificeret fra kilde.
 
+## Ansvar og løbende opgaver
+Hver linje har kilde og dato. Opdatér her, når ansvar eller kontaktoplysninger ændres.
+
+**Pulsen 5, 9330 Dronninglund** (ejer: GreenGo Energy M34 K/S, c/o Momentum Gruppen A/S). Kobling til M34 Voergaard: skal verificeres.
+- Kristian står for vandaflæsning og henvendelser fra forsyningerne. Kilde: Kristian, 12. okt. 2026.
+- Flauenskjold Vandværk: forbrugernr. 675000502, målernr. 20274303, måler i målerbrønd haven vest. Årlig selvaflæsning pr. 30. sep. Mangler aflæsningen, aflæser vandværket selv mod et gebyr på 200 kr. I 2026 var fristen 1. okt., forlænget til 10. okt. i en rykker. Kilde: mail "Aflæsningskort", Flauenskjold Vandværk, 17. sep. 2026, og "Rykker for aflæsning.pdf", 4. okt. 2026.
+- Aflæsning 2026 er indberettet, og kontaktmailen hos vandværket er ændret fra Justus Merzenich (Encavis) til Kristian. Kilde: Kristian, 12. okt. 2026.
+- Brønderslev Forsyning, tømningsordning for hustank: tank kode 01431-10169363. Tømt 21.09.2026 af Marius Pedersen A/S, kun standardbemærkninger. Kontaktmail stod pr. 21. sep. 2026 til Justus Merzenich; om den er ændret: skal verificeres. Kilde: tømningsattest, Brønderslev Forsyning, 21. sep. 2026.
+
 ## Sådan skal du hjælpe mig
 - Vær konservativ. Er du i tvivl, markér svaret "til godkendelse" eller "skal verificeres" i stedet for at gætte.
 - Find aldrig på data. Skriv "ved ikke" når du ikke ved det.
