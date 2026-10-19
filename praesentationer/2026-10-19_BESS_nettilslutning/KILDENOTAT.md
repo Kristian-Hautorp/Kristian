@@ -5,7 +5,27 @@ Internt notat til Kristian Hautorp. Udarbejdet 19.10.2026. **Status: udkast, til
 Præsentation (privat link, skal deles før Antoni kan åbne den): https://claude.ai/artifact/Dge56kbKAw88BbzayYJ7kc
 Kildefilerne til præsentationen ligger i `deck/` i denne mappe.
 
-## Opdatering 19.10.2026 efter Kristians svar
+## Opdatering 2, 19.10.2026: nyt design er 4 timer
+
+Kristian 19.10.2026: alle 2-timers størrelser er det tidligere design, alle 4-timers størrelser er det nye. 3-timers tallene fra FM sep. 2025 er taget helt ud.
+
+Præsentationen er rettet (slide 9-13, forsiden og opsummeringen): mindre effekt, 4 timers lager og begrænset netadgang.
+
+| Projekt | Tidligere (2 t) | Nyt (4 t) | Ændring MW / MWh | Kilde for nyt design |
+|---|---|---|---|---|
+| M01B | 90 MW / 180 MWh | **[mangler]** | | Kristian: ny ansøgning netop indsendt |
+| M23 | 120 MW / 240 MWh | **[mangler]** | | Ved ikke om der er indsendt ny |
+| M30 | 90 MW / 180 MWh | 60 MW / 240 MWh | −33 % / +33 % | Indsendt til Nord Energi Net 17.09.2026 |
+| M34 | 56,25 MW / 112,5 MWh | 45 MW / 180 MWh | −20 % / +60 % | Indsendt til Nord Energi Net 17.09.2026 |
+| M30 + M34 | 146,25 MW / 292,5 MWh | 105 MW / 420 MWh | −28 % / +44 % | Beregnet |
+
+Kilde for 2- og 4-timers tallene: Kristians egen præsentation "Mermaid Portfolio: Four Danish Solar + BESS Projects" (claude.ai artifact, opdateret 21.09.2026), slide "Battery storage". Den angiver at de reviderede ansøgninger dimensionerer lageret til 50 % af tilslutningskapaciteten på M30 og 60 % på M34 mod accept af permanent curtailment, og at svar fra Nord Energi Net udestår. Tjek: 60/120 MWac = 50 %, 45/75 MWac = 60 %.
+
+**Skal verificeres:**
+1. "Lower grid connection costs expected for a curtailable connection" (slide 12) bygger på GreenGos SteerCo-slides (`260610 SteerCo_Mermaid_Recap (corrected).docx`: DKK 60.000 vs. 20.000/MW/år) og Marco Bertazzis mail 04.09.2026 ("The expectation is that this would ... reduce connection costs"). Ikke bekræftet af netselskaberne.
+2. M01B- og M23-tallene står som `[__ MW / __ MWh]` på slide 10 og 13 indtil de er leveret.
+
+## Opdatering 1, 19.10.2026 efter Kristians svar
 
 Kristians afgørelser: (1) M01B 90/180 er korrekt, men er den gamle; en ny ansøgning er netop indsendt. (2) M34-netansøgningen blev opdateret midt i september. (3) Tallene for det tidligere design indeholder fejl. (4) Ikrafttrædelsesdato: "October 2026" er fint.
 
@@ -43,12 +63,11 @@ Ikke fundet: M01B's nye ansøgning, M34's ansøgning fra midt september, og korr
 | 6 | Fire kategorier; kategori 3 = lager, inkl. lager i samplacerede anlæg "ud over brugerens almindelige produktions- eller forbrugsbehov"; kan prioriteres højere i kategorien; afvisning mulig i kat. 3 og 4 | Aftale om akutplan for elnettet, s. 3 og s. 5 |
 | 7 | Fire netvenlighedskriterier; citat "Projekter, der belaster nettet mindre, kan få en bedre placering i køen..." | Aftale om akutplan for elnettet, s. 4 og s. 5 |
 | 8 | Sol + batteri bag samme tilslutning | Illustrativt koncept, ingen projektdata |
-| 9-10, 13 | Tidligere design: M01B 118 MW/355 MWh, M23 160 MW/480 MWh, M30 120 MW/360 MWh (alle 3 t) | `Mermaid_Working_Dashboard_v1.1.xlsx` (2026-05-09), kolonne "FM Sep 2025" |
-| 9-10, 13 | Nyt design: M01B 88/176, M23 120/240, M30 90/180, M34 56/112 (2 t, ca. 75 % af AC) | Samme fil ("SP+SteerCo", M23 "DSA 6 May 26"); M34 "Plan 56 MW × 2h" |
+| 9-10, 13 | Erstattet: se "Opdatering 2" øverst. 3-timers tallene fra `Mermaid_Working_Dashboard_v1.1.xlsx` bruges ikke længere | |
 | 13 | PV MWp 168 / 224 / 169 / 105 | `Mermaid_Portfolio_Forside_v4.xlsx` (2026-05-21), "Confirmed ... all PV MWp figures (SteerCo April 2026)" |
 | 13 | M01B + M23 deler 150 kV Lem Kær (280 MWac IA); M30 + M34 via Nord Energi 60 kV | `Energinet_Grid_Prioritisation_v3.docx` (2026-05-08); `Mermaid_Working_Dashboard_v1.1.xlsx` |
 
-Beregnet af mig: alle tre projekter med tidligere design går ca. 25 % ned i MW og ca. 50 % ned i MWh (fx M01B: 88/118 = 0,75; 176/355 = 0,50). Totaler: 398 MW/1.195 MWh til 298 MW/596 MWh (tre projekter), 354 MW/708 MWh (alle fire).
+Beregningen af −25 % / −50 % på 3-timers grundlag er udgået (se Opdatering 2).
 
 ## Kildekonflikter: du skal afgøre
 
