@@ -5,6 +5,25 @@ Internt notat til Kristian Hautorp. Udarbejdet 19.10.2026. **Status: udkast, til
 Præsentation (privat link, skal deles før Antoni kan åbne den): https://claude.ai/artifact/Dge56kbKAw88BbzayYJ7kc
 Kildefilerne til præsentationen ligger i `deck/` i denne mappe.
 
+## Opdatering 19.10.2026 efter Kristians svar
+
+Kristians afgørelser: (1) M01B 90/180 er korrekt, men er den gamle; en ny ansøgning er netop indsendt. (2) M34-netansøgningen blev opdateret midt i september. (3) Tallene for det tidligere design indeholder fejl. (4) Ikrafttrædelsesdato: "October 2026" er fint.
+
+Søgt i Drive-kopien af skrivebordsarkivet ("My Laptop / Mermaid Portefølje"). Kopien er fra 14.09.2026, så alt indsendt efter den dato mangler. Det rigtige skrivebord ligger i Sterns OneDrive/SharePoint, som denne session ikke har adgang til. Arkivets egen faktafil (`CLAUDE.md` i roden) og `Mermaid_Portfolio_overview_v1.5.xlsx` er ikke med i kopien.
+
+Fundet (seneste før 14.09):
+
+| Projekt | Fund | Kilde |
+|---|---|---|
+| M30 | M30b BESS 45 MW ac + M30c BESS 45 MW ac, import 45 MW hver, FNA-F | `M30B BESS Erklæring af modenhed.pdf` og `M30C BESS Erklæring af modenhed.pdf`, dateret 31.08.2026, til Nord Energi Net |
+| M30 | "min. 90 MW / 180 MWh (2h)" | `_STATUS_M30.md`, autogenereret 14.09.2026 fra arkivets CLAUDE.md |
+| M34 | 56,25 MW ac, import 56,25 MW, FNA-F | `M34 BESS Erklæring af modenhed.pdf`, dateret 31.08.2026, til Nord Energi Net |
+| M30/M34 | Opdateret ansøgning skal afklare "the change from FNA to LNA"; BESS-konfiguration "the lower the effect the better" | Mail fra Mathias Schou Gammelgaard (BattMan Energy) til Encavis, 14.09.2026 |
+| Portefølje | Mål: flytte samplaceret BESS fra kategori 3 til kategori 2 via netvenlige tiltag | Mail fra Alexander Wobedo (Encavis) til Aurora, 09.09.2026 |
+| M01B/M23 | Energinets model: behind-the-meter (ingen netimport) rangerer højere end grid import; abonnement fuld kapacitet DKK 60.000/MW/år, begrænset DKK 20.000/MW/år | `260610 SteerCo_Mermaid_Recap (corrected).docx` (GreenGos slides, skal verificeres) |
+
+Ikke fundet: M01B's nye ansøgning, M34's ansøgning fra midt september, og korrekte tal for det tidligere design. **Slide 9, 10 og 13 afventer disse tal og er ikke rettet endnu.**
+
 ## Antagelser
 
 1. **Sprog:** engelsk, fordi Antoni Beltran Dauden (Chief Development Officer, Encavis) skal bruge den over for investorer. Kilde til titel: `Kopie von Mermaid_Email_List_2026-06-16.xlsx`.
